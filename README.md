@@ -1,7 +1,7 @@
 # ProyectoHeidiJoseJoseLShirly
 proyecto de bootcam programacion lorica 2
-##Shirleys Morelo
+## Shirleys Morelo
 ## Heidi martinez
 ## Jose Ballesteros
-##Jose Luis Mendoza
-##Franklin Martinez Avila
+## Jose Luis Mendoza
+## Franklin Martinez Avila
