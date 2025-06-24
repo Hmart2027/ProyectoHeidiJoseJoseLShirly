@@ -4,3 +4,4 @@ proyecto de bootcam programacion lorica 2
 ## Heidi martinez
 ## Jose Ballesteros
 ##Jose Luis Mendoza
+##Franklin Martinez Avila
