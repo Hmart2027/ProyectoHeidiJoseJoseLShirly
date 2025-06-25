@@ -5,3 +5,4 @@ proyecto de bootcam programacion lorica 2
 ## Jose Ballesteros
 ## Jose Luis Mendoza
 ## Franklin Martinez Avila
+Hola ya el profe se está aprendiendop mi nombre
