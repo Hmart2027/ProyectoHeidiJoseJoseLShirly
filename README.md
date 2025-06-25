@@ -7,4 +7,6 @@ proyecto de bootcam programacion lorica 2
 ## Franklin Martinez Avila
 Hola ya el profe se está aprendiendop mi nombre
 el dia esta soleado 
-prueba de confirmacion 
+shirle puso al día
+Hola la prueba sigue
+### Hoy es miercoles soleado
